@@ -1,2 +1,2 @@
-# portefolio
-niveau d'étude, métier,parcours,passion
+# portfolio
+Niveau d'étude, Métier, Parcours, Passion
